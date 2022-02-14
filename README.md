@@ -1,4 +1,4 @@
-# SolitaireAssets
+# READ ME
 
 SolitaireAssetsフォルダに含まれているSymbols.pngは、動画内とは違うものです。
 (素材サイトからダウンロードしたものではないです。)
